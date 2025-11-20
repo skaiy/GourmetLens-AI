@@ -5,7 +5,7 @@
 > **The Virtual Food Photographer for the World.**  
 > Instantly generate professional, high-end food photography for menus and social media using Google's latest Generative AI models.
 
-![App Screenshot](https://via.placeholder.com/1200x600?text=GourmetLens+AI+Dashboard)
+![App Screenshot](ScreenShot_2025-11-21_064712_937.png)
 
 ## 🌍 Global Edition (54 Languages)
 

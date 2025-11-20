@@ -5,7 +5,7 @@
 > **面向全球的虚拟美食摄影师。**  
 > 利用 Google 最新的生成式 AI 模型，即时为菜单和社交媒体生成专业级的高端美食摄影作品。
 
-![应用截图](https://via.placeholder.com/1200x600?text=GourmetLens+AI+Dashboard)
+![应用截图](ScreenShot_2025-11-21_064712_937.png)
 
 ## 🌍 全球版 (支持 54 种语言)
 
