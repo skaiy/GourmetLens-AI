@@ -1,5 +1,7 @@
 # 📸 GourmetLens AI
 
+> [中文版](README_zh-CN.md) | **English**
+
 > **The Virtual Food Photographer for the World.**  
 > Instantly generate professional, high-end food photography for menus and social media using Google's latest Generative AI models.
 
